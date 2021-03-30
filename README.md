@@ -2,7 +2,7 @@
 ## Background
 Pada tahun 2018 di Amerika tercatat sekitar 12 juta kecelakaan terjadi, sekitar 42% atau 5 juta diantara nya adalah kecelakaan mobil dan kecelakaan itu mengakibatkan sekitar 1.8 juta orang mengalami luka. Tentunya hal ini menimbulkan kerugian materi maupun non materi bagi para korban.
 Asuransi mobil tentunya sangat bermanfaat untuk menanggung kerugian berupa kerusakan mobil karena kecelakaan, dana yang digunakan perusahaan asuransi untuk memperbaiki kerusakan mobil tersebut bersumber dari premi yang di bayarkan customer setiap tahun nya. Disisi lain premi juga merupakan salah satu sumber pendapatan bagi perusahaan asuransi yang nanti nya akan di manfaatkan perusahaan untuk mendapatkan keuntungan lain nya seperti investasi sehingga sangat penting bagi perusahaan untuk menentukan premi yang tepat bagi customer sehingga revenue perusahaan meningkat.
-Ini merupakan sebual project Machine Learning yang dikerjakan secara kolaborasi untuk memprediksi customer yang berpotensi melakukan claim dan mencari kriteria customer yang memiliki potensi claim rendah sehingga perusahaan dapat membuat kebijakan premi yang tepat.
+Ini merupakan sebual project Machine Learning yang dikerjakan secara kolaborasi untuk memprediksi customer yang berpotensi melakukan claim dan mencari kriteria customer yang memiliki potensi claim rendah sehingga perusahaan dapat membuat kebijakan premi yang tepat. Model yang akan di buat adalah Supervised Machine Learning dengan tipe Classification.
 
 ## Problem Statement
 Bagaimana cara mengetahui customer yang akan melakukan claim agar perusahaan bisa membuat kebijakan premi untuk meningkatkan revenue
