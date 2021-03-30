@@ -12,8 +12,8 @@ Bagaimana cara mengetahui customer yang akan melakukan claim agar perusahaan bis
 - Mengetahui tahu kriteria customer yang memiliki potensi tidak melakukan claim
 
 ## Objective
-● Membuat model Machine Learning untuk memprediksi customer yang akan melakukan claim dan tidak
-● Menganalisa kriteria customer yang tidak melakukan claim
+- Membuat model Machine Learning untuk memprediksi customer yang akan melakukan claim dan tidak
+- Menganalisa kriteria customer yang tidak melakukan claim
 
 Data yang di gunakan bersumber dari https://www.kaggle.com/mukuljh2/car-insurance-claim.
 
